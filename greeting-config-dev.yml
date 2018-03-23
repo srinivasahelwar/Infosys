@@ -9,4 +9,4 @@ management:
 greeting:
   displayFortune: true # <----Change to true
 
-quoteServiceURL: http://trade-quote-service-dev.cfapps.io/quote
+quoteServiceURL: http://trade-quote-service-dev.cfapps.io/quotes
